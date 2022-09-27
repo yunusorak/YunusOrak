@@ -22,8 +22,8 @@
 
 
 <p align="center">
-      <img height="180em" width="50%" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=radical&show_icons=true&count_private=true)"/>
-      <img height="180em" width="50%" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=radical"/>
+      <img height="180em" width="100%" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=radical&show_icons=true&count_private=true)"/>
+      <img height="180em" width="100%" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 
