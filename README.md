@@ -21,9 +21,9 @@ Front-end alanında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni te
 </p>
 
 
-<p align="left">
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=dark&show_icons=true&count_private=true)"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=dark"/>
+<p align="center">
+      <img height="180em" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=dark&show_icons=true&count_private=true)"/>
+      <img height="180em" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 
