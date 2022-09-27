@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👋 Merhaba ben Yunus Orak, Akdeniz Üniversitesi Bilgisayar programcılığı 2. sınıf öğrencisiyim. 
+Front-end alanında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri takip ediyorum.
+🌱 Şu an aktif olarak vuejs 2.x kullanıyorum ve HTML, CSS, Bootstrap ve javascript kullanarak web siteleri geliştiriyorum.
+⚡ Yazılıma ilk başladığım zamandan bu yana kendime çok şey katmış olsam da hala bilmediğim bir çok şey var ve bu konuları araştırmak, öğrenmek, uygulayabilmek şu andaki en büyük tutkum.
 <!--
 **YunusOrak/YunusOrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
