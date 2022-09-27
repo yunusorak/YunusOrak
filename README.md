@@ -22,12 +22,12 @@
 
 
 <p align="center">
-      <img height="180em" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=dark&show_icons=true&count_private=true)"/>
-      <img height="180em" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=dark"/>
+      <img height="180em" style="float:left;" src="https://github-readme-stats.vercel.app/api?username=yunusorak&theme=radical&show_icons=true&count_private=true)"/>
+      <img height="180em" style="float:left;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusorak&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusorak)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusorak)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **YunusOrak/YunusOrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
