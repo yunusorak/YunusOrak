@@ -1,9 +1,9 @@
 ### 👋 Merhaba ben Yunus Orak, 
-🌱Akdeniz Üniversitesi Bilgisayar programcılığı 2. sınıf öğrencisiyim.  
+🌱Akdeniz Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim.  
 
 🌱Front-end alanında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri takip ediyorum. 
 
-🌱 Şu an aktif olarak vuejs 2.x kullanıyorum ve HTML, CSS, Bootstrap ve javascript kullanarak web siteleri geliştiriyorum. 
+🌱 Şu an aktif olarak Front-End alanı üzerinde çalışıyorum ve HTML, CSS, Bootstrap ve javascript kullanarak web siteleri geliştiriyorum. 
 
 ⚡ Yazılıma ilk başladığım zamandan bu yana kendime çok şey katmış olsam da hala bilmediğim bir çok şey var ve bu konuları araştırmak, öğrenmek, uygulayabilmek şu andaki en büyük tutkum.
 
