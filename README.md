@@ -3,7 +3,7 @@
 
 🌱Front-end alanında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri takip ediyorum. 
 
-🌱 Şu an aktif olarak Front-End alanı üzerinde çalışıyorum ve HTML, CSS, Bootstrap ve javascript kullanarak web siteleri geliştiriyorum. 
+🌱 Şu an aktif olarak HTML, CSS, Bootstrap ve javascript kullanarak web siteleri geliştiriyorum. 
 
 ⚡ Yazılıma ilk başladığım zamandan bu yana kendime çok şey katmış olsam da hala bilmediğim bir çok şey var ve bu konuları araştırmak, öğrenmek, uygulayabilmek şu andaki en büyük tutkum.
 
